@@ -14,9 +14,7 @@ const sizeOfProd = (s)=>{
 const favI=(id)=>{
   props.dtFav(id)
 }
-const renderSizes=()=>{
 
-}
 console.log(props)
   return (
     <div>
